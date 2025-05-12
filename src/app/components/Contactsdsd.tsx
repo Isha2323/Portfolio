@@ -70,4 +70,4 @@ const Contadfct = () => {
   );
 };
 
-export default Contact;
+export default Contadfct;

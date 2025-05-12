@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { FaEnvelope, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaEnvelope, FaGithub } from "react-icons/fa";
 
 const Contact = () => {
   return (
@@ -45,7 +45,9 @@ const Contact = () => {
             <FaGithub className="text-xl" />
             GitHub
           </a>
-          {/*<a
+          {/*
+          add this in import FaLinkedin 
+          <a 
             href="https://linkedin.com/in/ishasitap"
             target="_blank"
             rel="noopener noreferrer"
