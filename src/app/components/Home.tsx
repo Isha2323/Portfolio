@@ -34,7 +34,7 @@ const Home = () => {
         className="text-center md:text-left max-w-xl"
       >
         <h1 className="text-4xl md:text-6xl font-bold mb-4">
-          Hi, I'm Isha Sitap
+          <p>Hi, I'm Isha Sitap</p>
         </h1>
         <p className="text-lg md:text-xl text-gray-300">
           A frontend developer who builds clean, responsive websites and
