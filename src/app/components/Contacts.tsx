@@ -34,7 +34,7 @@ const Contact = () => {
             className="flex items-center gap-2 hover:text-gray-300 transition"
           >
             <FaEnvelope className="text-xl" />
-            anime@gmail.com
+            isha@gmail.com
           </a>
           <a
             href="https://github.com/isha2323"

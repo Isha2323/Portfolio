@@ -12,8 +12,8 @@ const projects = [
   {
     title: "Todo App",
     description:
-      "A minimal productivity app built with React and localStorage.",
-    link: "https://github.com/yourusername/todo-app",
+      "A minimal productivity app built with  HTML, CSS and Javascript.",
+    link: " https://isha2323.github.io/To-Do/",
   },
   {
     title: "Anime",
