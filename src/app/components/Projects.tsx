@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Anime",
+    title: "Portfolio",
     description:
       "My personal portfolio website built with Next.js, Tailwind CSS, and Framer Motion.",
     link: "https://isha2323.github.io/Anime/",
@@ -16,10 +16,9 @@ const projects = [
     link: "https://github.com/yourusername/todo-app",
   },
   {
-    title: "Weather Finder",
-    description:
-      "Fetches weather data using OpenWeatherMap API. Made with JavaScript and CSS.",
-    link: "https://github.com/yourusername/weather-app",
+    title: "Anime",
+    description: "This website is made using React, Tailwind CSS",
+    link: "https://isha2323.github.io/Anime/",
   },
 ];
 
